@@ -11,3 +11,9 @@ Pathway enrichment was performed using Enrichr in September 2026.
   - MSigDB Hallmark 2020
 - Statistical framework: Fisher's exact/hypergeometric testing with Benjamini-Hochberg adjustment.
 - Limitation: Because the input was small, direction-mixed, and used a non-custom background, results are exploratory and do not demonstrate pathway activation or inhibition.
+## Project Files
+
+- [Final report](CML_Gene_Expression_Report.pdf)
+- [Analysis notebook](CML_GSE5550_Analysis.ipynb)
+- [Figures](figures/)
+- [Enrichment outputs](data/)
