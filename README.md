@@ -17,3 +17,5 @@ Pathway enrichment was performed using Enrichr in September 2026.
 - [Analysis notebook](CML_GSE5550_Analysis.ipynb)
 - [Figures](figures/)
 - [Enrichment outputs](data/)
+
+Independent exploratory transcriptomic analysis of public CML CD34+ cell data using GEO2R/limma, Python visualization, and Enrichr pathway enrichment.
